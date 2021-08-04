@@ -1,4 +1,4 @@
-# statistics-for-datascience-using-python
+# statistics-for-datascience-using-python-basic
 Statistics course teaching files for data science in jupyter notebook( basic level )
 
 ## contents
